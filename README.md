@@ -27,6 +27,8 @@ Else </br>
 ## Representation
 Diagram
 
+![Circuit Diagram (1)](https://user-images.githubusercontent.com/66815283/166094385-b474c290-ce38-4f02-84a1-044796f8364d.jpg)
+
 ## Uses
 This project can be conveniently used at any  place where there is a high chance of gatherings especially in school, universitties and hospitals.
 
